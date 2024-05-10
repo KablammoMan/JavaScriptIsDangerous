@@ -6,7 +6,7 @@ A bunch of things that I discovered you can do in javascript that probably shoul
 ## Featuring:
 - `document.body.style` in tandem with `setInterval`
 - `window.moveTo` in tandem with `setInterval`
-- `window.open` in tandem with `document.body.onblur`
+- `window.open` in tandem with `window.location.href` and `document.body.onblur`
 
 # NOTICE
 This was created for educational purposes only. Do NOT use this on someone else without their EXPLICIT CONSENT.
